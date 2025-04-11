@@ -1,0 +1,21 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.in-out {
+  display: flex;
+  gap: 10px;
+}
+
+.body {
+  padding: 50px;
+  text-align: center;
+}
